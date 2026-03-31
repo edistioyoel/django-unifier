@@ -1,0 +1,28 @@
+{
+    "last_project_folder": "C:\\Paxioli\\CODIGOS_FUENTES",
+    "last_output_folder": "C:\\Paxioli\\CODIGOS_FUENTES\\as_TXT",
+    "selected_extensions": [
+        ".py",
+        ".html",
+        ".css",
+        ".js",
+        ".json"
+    ],
+    "excluded_folders": [
+        "__pycache__",
+        ".git",
+        "venv",
+        "env",
+        ".venv",
+        "node_modules",
+        ".vscode",
+        ".idea",
+        "static",
+        "staticfiles",
+        "media",
+        "logs",
+        "__tests__",
+        ".pytest_cache",
+        "migrations"
+    ]
+}
